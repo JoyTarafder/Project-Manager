@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 
 ### Project Install Proccess
 
-`npm install `
+```npm install ```
 
-`npx tailwindcss init -p`
+```npx tailwindcss init -p```
