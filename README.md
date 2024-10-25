@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 
 ### Project Install Proccess
 
-`npm install -D tailwindcss postcss autoprefixer`
+`npm install `
 
 `npx tailwindcss init -p`
